@@ -25,6 +25,11 @@ Dieses Repository enthält Plugins für deutsche Kanzleien. Wenn du in diesem Re
 - Aufsätze: Autor, Zeitschrift, Jahrgang, Anfangsseite (konkrete Seite).
 - Reihenfolge: Rspr. vor Lit., neueste zuerst.
 - Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen zitieren. Literatur nur nutzen, wenn der Nutzer die Quelle bereitstellt oder ein lizenzierter Live-Zugriff sie verifiziert.
+- **Fundstellenprüfung vor jeder Ausgabe (verbindlich, hohe Priorität).** Jede zitierte Entscheidung wird vor der Ausgabe im Volltext abgerufen und geprüft: Gericht, Entscheidungsform, Datum, Aktenzeichen, ECLI und die konkret zitierte Randnummer oder der Leitsatz. Die Aussage, für die zitiert wird, muss an genau dieser Stelle stehen. Ein Suchtreffer-Ausschnitt, ein Leitsatz-Schlagwort oder das Zitat in einer anderen Entscheidung genügt nicht.
+- Gibt es unter einem Aktenzeichen mehrere Entscheidungen, wird die zitierte Entscheidung über Datum, Entscheidungsform und ECLI eindeutig bezeichnet.
+- Zeitschriften- und Sammlungsfundstellen (NJW, BGHZ, BGHSt usw.) nur angeben, wenn sie in einer abgerufenen Quelle belegt sind; die Herkunft ist im Quellenverzeichnis zu vermerken.
+- Passt der Sachverhalt der Entscheidung nicht zum Fall, wird die Übertragung ausdrücklich als eigene Bewertung gekennzeichnet. Eine Entscheidung wird nur für die Aussage zitiert, die sie trägt.
+- Was nicht verifiziert werden kann, wird nicht zitiert. Die Aussage wird stattdessen als eigene Bewertung oder als offener Rechercheauftrag gekennzeichnet.
 - **Leitentscheidungs-Anker:** [`references/leitentscheidungen-anker.md`](./references/leitentscheidungen-anker.md) ist die kuratierte Themen-Anker-Liste je Rechtsgebiet. Sie ersetzt nicht die Live-Verifikation, aber sie liefert sichere Sucheinstiege ohne Modellwissens-Halluzination.
 
 ## Gliederung, Schriftbild und Nummerierung (verbindlich für alle Vorlagen und Verträge)
